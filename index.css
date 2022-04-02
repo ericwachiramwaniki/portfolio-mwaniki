@@ -1,0 +1,24 @@
+* {
+    
+}
+body {
+    background-color: rgb(223, 223, 233);
+}
+
+a {
+    text-decoration: none;
+}
+
+.navbar {
+    background-color: rgba(248, 240, 229, 0.993);
+}
+
+.nav-link {
+    border: 0.2em solid green;
+    padding: 0.2em;
+}
+
+.nav-link:hover {
+    background-color: green;
+    color:rgb(253, 252, 250);
+}
